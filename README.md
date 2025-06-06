@@ -1,5 +1,5 @@
 # **TeamSpeak Unblocker** 🛡️  
-**حل مشکل بلک لیست تیم اسپیک**
+🔹 **حل مشکل بلک لیست تیم اسپیک**
 
 🔹 **A Python script & executable to bypass TeamSpeak's blacklist by modifying the hosts file.**  
 
