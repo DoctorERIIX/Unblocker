@@ -18,8 +18,8 @@ This tool blocks TeamSpeak's blacklist servers (`blacklist.teamspeak.com` and `b
 ## **🚀 Getting Started**  
 
 ### **📥 Prerequisites**  
-- **Windows OS** (For `.exe` version). [Download Unblocker.exe](https://drive.google.com/file/d/1FL-tGxmfIyc72BTF6uuGZtX5n_YQhnVh/view?usp=sharing).
-- **Python 3.x** (For `.py` version) – [Download Python](https://www.python.org/downloads/).  
+- **Windows OS** (For `.exe` version). [Download Unblocker.exe](https://drive.google.com/file/d/1FL-tGxmfIyc72BTF6uuGZtX5n_YQhnVh/view?usp=sharing)
+- **Python 3.x** (For `.py` version) – [Download Python](https://www.python.org/downloads/)
 
 ### **⚙️ Installation**  
 1. **Download the files:**  
